@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Unifenas\\Atividades integradoras\\2020_1\\Atividades_Integradoras_5\\CaoLendario\\CaoLendario.csproj": {}
+    "C:\\Unifenas\\Atividades integradoras\\2020_1\\AI5\\Atividades_Integradoras_5\\CaoLendario.csproj": {}
   },
   "projects": {
-    "C:\\Unifenas\\Atividades integradoras\\2020_1\\Atividades_Integradoras_5\\CaoLendario\\CaoLendario.csproj": {
+    "C:\\Unifenas\\Atividades integradoras\\2020_1\\AI5\\Atividades_Integradoras_5\\CaoLendario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Unifenas\\Atividades integradoras\\2020_1\\Atividades_Integradoras_5\\CaoLendario\\CaoLendario.csproj",
+        "projectUniqueName": "C:\\Unifenas\\Atividades integradoras\\2020_1\\AI5\\Atividades_Integradoras_5\\CaoLendario.csproj",
         "projectName": "CaoLendario",
-        "projectPath": "C:\\Unifenas\\Atividades integradoras\\2020_1\\Atividades_Integradoras_5\\CaoLendario\\CaoLendario.csproj",
+        "projectPath": "C:\\Unifenas\\Atividades integradoras\\2020_1\\AI5\\Atividades_Integradoras_5\\CaoLendario.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Unifenas\\Atividades integradoras\\2020_1\\Atividades_Integradoras_5\\CaoLendario\\obj\\",
+        "outputPath": "C:\\Unifenas\\Atividades integradoras\\2020_1\\AI5\\Atividades_Integradoras_5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
